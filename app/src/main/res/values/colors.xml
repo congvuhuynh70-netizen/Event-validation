@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="dark_bg">#0D131D</color>
+    <color name="dark_card_bg">#131C2A</color>
+    <color name="dark_input_bg">#1A2636</color>
+    <color name="green_primary">#00E676</color>
+    <color name="green_button">#00C853</color>
+    <color name="green_button_pressed">#00A040</color>
+    <color name="error_red">#FF5252</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_hint">#8A99AD</color>
+    <color name="border_color">#1F3249</color>
+</resources>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Form Đăng Ký</string>
+    <string name="title_register">ĐĂNG KÝ TÀI KHOẢN</string>
+    <string name="title_detail">THÔNG TIN CHI TIẾT</string>
+
+    <string name="hint_name">Họ và tên</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_phone">Số điện thoại</string>
+    <string name="hint_msv">Mã sinh viên</string>
+    <string name="hint_class">Lớp</string>
+
+    <string name="btn_register">ĐĂNG KÝ NGAY</string>
+    <string name="btn_back">QUAY LẠI ĐĂNG KÝ</string>
+
+    <!-- Error messages -->
+    <string name="error_name_empty">Họ và tên không được để trống</string>
+    <string name="error_email_empty">Email không được để trống</string>
+    <string name="error_email_invalid">Email không hợp lệ</string>
+    <string name="error_phone_empty">Số điện thoại không được để trống</string>
+    <string name="error_phone_invalid">Số điện thoại không hợp lệ (10 - 11 chữ số)</string>
+    <string name="error_msv_empty">Mã sinh viên không được để trống</string>
+    <string name="error_class_empty">Lớp không được để trống</string>
+
+    <string name="msg_register_failure">Vui lòng kiểm tra lại thông tin nhập liệu</string>
+</resources>
